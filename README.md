@@ -7,5 +7,5 @@ The aim of this project is to gain some insight about the data for further model
 5. Evaluation
 6. Recommender System
 
-# Requiereded Packages:
+## Requiereded Packages
 numpy, pandas, seaborn, statsmodels, matplotlib, os, ast, random, statsmodels, sklearn, xgboost
