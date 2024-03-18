@@ -7,15 +7,5 @@ The aim of this project is to gain some insight about the data for further model
 5. Evaluation
 6. Recommender System
 
-# In order to run the notebooks, you need to install the following packages:
-numpy
-pandas
-seaborn
-statsmodels
-matplotlib
-os
-ast
-random
-statsmodels
-sklearn
-xgboost
+# Requiereded Packages:
+numpy, pandas, seaborn, statsmodels, matplotlib, os, ast, random, statsmodels, sklearn, xgboost
