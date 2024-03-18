@@ -1,4 +1,4 @@
-The following packages are needed to be installed
+To run this notebook, you need to install the following packages:
 1. numpy
 2. pandas
 3. seaborn
